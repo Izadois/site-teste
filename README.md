@@ -1,8 +1,7 @@
-# 🖥️ site-teste
-
+# site-teste
 Este é um repositório de exemplo criado para treinar o uso do GitHub e organizar um projeto de site. Aqui vamos armazenar os arquivos HTML, CSS e outros recursos do nosso site.
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 - `index.html` → Página principal do site  
 - `style.css` → Estilo da página (cores, fontes, espaçamentos etc.)  
